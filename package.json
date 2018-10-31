@@ -58,7 +58,7 @@
   "dependencies": {
     "bluebird": "^3.4.1",
     "decompress": "^3.0.0",
-    "mongodb-download": "^2.2.6",
+    "mongodb-download": "f3rno/mongodb-download",
     "npmlog": "^4.0.0",
     "ramda": "^0.22.1",
     "sprintf-js": "^1.0.3"
